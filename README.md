@@ -9,3 +9,4 @@ To launch the dashboard locally use this command in your terminal.
 ```
 panel serve Dashboard.ipynb
 ```
+![](https://github.com/sahilkunder/CO2-Interactive-Dashboard/blob/main/dashboard.gif)
